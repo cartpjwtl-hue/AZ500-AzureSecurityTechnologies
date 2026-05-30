@@ -1,0 +1,44 @@
+[
+  {
+    "id": "vmext",
+    "type": "file",
+    "file": "05_Subscription_Resource_Control/VM_Extensions_and_RunCommand_Abuse.md",
+    "x": 0,
+    "y": 0
+  },
+  {
+    "id": "kv",
+    "type": "file",
+    "file": "05_Subscription_Resource_Control/Key_Vault_Exfiltration.md",
+    "x": 350,
+    "y": 0
+  },
+  {
+    "id": "storage",
+    "type": "file",
+    "file": "05_Subscription_Resource_Control/Storage_Account_Takeover.md",
+    "x": 700,
+    "y": 0
+  },
+  {
+    "id": "backup",
+    "type": "file",
+    "file": "05_Subscription_Resource_Control/Azure_Backup_and_Soft_Delete_Abuse.md",
+    "x": 1050,
+    "y": 0
+  },
+  {
+    "id": "rbac",
+    "type": "file",
+    "file": "05_Subscription_Resource_Control/Role_Assignment_Abuse.md",
+    "x": 1400,
+    "y": 0
+  },
+  {
+    "id": "mg",
+    "type": "file",
+    "file": "05_Subscription_Resource_Control/Management_Group_Takeover.md",
+    "x": 1750,
+    "y": 0
+  }
+]

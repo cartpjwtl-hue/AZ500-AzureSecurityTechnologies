@@ -1,0 +1,44 @@
+[
+  {
+    "id": "saml",
+    "type": "file",
+    "file": "06_Persistence/Golden_SAML.md",
+    "x": 0,
+    "y": 0
+  },
+  {
+    "id": "spn",
+    "type": "file",
+    "file": "06_Persistence/Hidden_SPNs_and_App_Registrations.md",
+    "x": 350,
+    "y": 0
+  },
+  {
+    "id": "dyn",
+    "type": "file",
+    "file": "06_Persistence/Dynamic_Groups_Abuse.md",
+    "x": 700,
+    "y": 0
+  },
+  {
+    "id": "grant",
+    "type": "file",
+    "file": "06_Persistence/OAuth2PermissionGrant_Persistence.md",
+    "x": 1050,
+    "y": 0
+  },
+  {
+    "id": "sched",
+    "type": "file",
+    "file": "06_Persistence/Scheduled_Jobs_and_Watcher_Tasks.md",
+    "x": 1400,
+    "y": 0
+  },
+  {
+    "id": "rat",
+    "type": "file",
+    "file": "06_Persistence/Remote_Access_Tools_on_Azure_VMs_ScreenConnect.md",
+    "x": 1750,
+    "y": 0
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "fromNode": "aadconnect",
+    "toNode": "pta"
+  },
+  {
+    "fromNode": "pta",
+    "toNode": "sso"
+  },
+  {
+    "fromNode": "sso",
+    "toNode": "trust"
+  },
+  {
+    "fromNode": "trust",
+    "toNode": "backdoor"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": "blob",
+    "type": "file",
+    "file": "02_Public_Services/Blob_Storage_Exposure.md",
+    "x": 0,
+    "y": 0
+  },
+  {
+    "id": "sas",
+    "type": "file",
+    "file": "02_Public_Services/Storage_SAS_Misuse.md",
+    "x": 350,
+    "y": 0
+  },
+  {
+    "id": "ssrf",
+    "type": "file",
+    "file": "02_Public_Services/App_Service_SSRF_MSI_Abuse.md",
+    "x": 700,
+    "y": 0
+  },
+  {
+    "id": "func",
+    "type": "file",
+    "file": "02_Public_Services/Function_Logic_App_Misconfig.md",
+    "x": 1050,
+    "y": 0
+  },
+  {
+    "id": "aks",
+    "type": "file",
+    "file": "02_Public_Services/AKS_Exposure_and_Container_Pivots.md",
+    "x": 1400,
+    "y": 0
+  },
+  {
+    "id": "kv",
+    "type": "file",
+    "file": "02_Public_Services/App_Service_to_Key_Vault_Pivot.md",
+    "x": 1750,
+    "y": 0
+  },
+  {
+    "id": "sql",
+    "type": "file",
+    "file": "02_Public_Services/Azure_SQL_Exfil_via_App_Identity.md",
+    "x": 2100,
+    "y": 0
+  },
+  {
+    "id": "m365",
+    "type": "file",
+    "file": "02_Public_Services/M365_File_Hosting_Exfil.md",
+    "x": 2450,
+    "y": 0
+  }
+]

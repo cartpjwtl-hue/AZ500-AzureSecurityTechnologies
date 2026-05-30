@@ -1,0 +1,65 @@
+[
+  {
+    "id": "illicit",
+    "type": "file",
+    "file": "01_Identity_OAuth/Illicit_Consent_Grant.md",
+    "x": 0,
+    "y": 0
+  },
+  {
+    "id": "malapp",
+    "type": "file",
+    "file": "01_Identity_OAuth/Malicious_App_Registration.md",
+    "x": 350,
+    "y": 0
+  },
+  {
+    "id": "refresh",
+    "type": "file",
+    "file": "01_Identity_OAuth/Refresh_Token_Theft.md",
+    "x": 700,
+    "y": 0
+  },
+  {
+    "id": "legacy",
+    "type": "file",
+    "file": "01_Identity_OAuth/Legacy_Authentication_Abuse.md",
+    "x": 1050,
+    "y": 0
+  },
+  {
+    "id": "overperm",
+    "type": "file",
+    "file": "01_Identity_OAuth/Over_Permissive_Roles_and_App_Permissions.md",
+    "x": 1400,
+    "y": 0
+  },
+  {
+    "id": "consentinj",
+    "type": "file",
+    "file": "01_Identity_OAuth/Consent_Injection_OAuth2PermissionGrants.md",
+    "x": 1750,
+    "y": 0
+  },
+  {
+    "id": "backdoor",
+    "type": "file",
+    "file": "01_Identity_OAuth/App_Backdooring_Existing_Enterprise_Apps.md",
+    "x": 2100,
+    "y": 0
+  },
+  {
+    "id": "prt",
+    "type": "file",
+    "file": "01_Identity_OAuth/PRT_Abuse_and_Lantern.md",
+    "x": 2450,
+    "y": 0
+  },
+  {
+    "id": "jwt",
+    "type": "file",
+    "file": "01_Identity_OAuth/JWT_Theft_and_Manipulation.md",
+    "x": 2800,
+    "y": 0
+  }
+]

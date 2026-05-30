@@ -1,0 +1,22 @@
+[
+  {
+    "fromNode": "saml",
+    "toNode": "spn"
+  },
+  {
+    "fromNode": "spn",
+    "toNode": "dyn"
+  },
+  {
+    "fromNode": "dyn",
+    "toNode": "grant"
+  },
+  {
+    "fromNode": "grant",
+    "toNode": "sched"
+  },
+  {
+    "fromNode": "sched",
+    "toNode": "rat"
+  }
+]

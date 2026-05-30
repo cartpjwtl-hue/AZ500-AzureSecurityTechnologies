@@ -1,0 +1,18 @@
+[
+  {
+    "fromNode": "kc1",
+    "toNode": "kc2"
+  },
+  {
+    "fromNode": "kc2",
+    "toNode": "kc3"
+  },
+  {
+    "fromNode": "kc3",
+    "toNode": "kc4"
+  },
+  {
+    "fromNode": "kc4",
+    "toNode": "kc5"
+  }
+]

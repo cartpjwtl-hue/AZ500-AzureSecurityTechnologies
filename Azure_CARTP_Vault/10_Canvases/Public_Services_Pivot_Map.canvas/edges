@@ -1,0 +1,30 @@
+[
+  {
+    "fromNode": "blob",
+    "toNode": "sas"
+  },
+  {
+    "fromNode": "sas",
+    "toNode": "ssrf"
+  },
+  {
+    "fromNode": "ssrf",
+    "toNode": "kv"
+  },
+  {
+    "fromNode": "kv",
+    "toNode": "sql"
+  },
+  {
+    "fromNode": "sql",
+    "toNode": "m365"
+  },
+  {
+    "fromNode": "func",
+    "toNode": "kv"
+  },
+  {
+    "fromNode": "aks",
+    "toNode": "kv"
+  }
+]

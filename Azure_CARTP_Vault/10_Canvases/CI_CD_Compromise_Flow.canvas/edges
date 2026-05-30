@@ -1,0 +1,22 @@
+[
+  {
+    "fromNode": "pat",
+    "toNode": "deploy"
+  },
+  {
+    "fromNode": "deploy",
+    "toNode": "auto"
+  },
+  {
+    "fromNode": "auto",
+    "toNode": "adf"
+  },
+  {
+    "fromNode": "gh",
+    "toNode": "auto"
+  },
+  {
+    "fromNode": "azdo",
+    "toNode": "auto"
+  }
+]

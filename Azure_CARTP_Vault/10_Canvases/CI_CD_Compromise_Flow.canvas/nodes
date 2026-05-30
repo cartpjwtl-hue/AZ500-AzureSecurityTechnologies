@@ -1,0 +1,44 @@
+[
+  {
+    "id": "pat",
+    "type": "file",
+    "file": "03_CI_CD_Automation/Pipeline_Secrets_and_PAT_Exposure.md",
+    "x": 0,
+    "y": 0
+  },
+  {
+    "id": "deploy",
+    "type": "file",
+    "file": "03_CI_CD_Automation/Deployment_History_Secret_Mining.md",
+    "x": 350,
+    "y": 0
+  },
+  {
+    "id": "auto",
+    "type": "file",
+    "file": "03_CI_CD_Automation/Automation_Accounts_and_Runbooks.md",
+    "x": 700,
+    "y": 0
+  },
+  {
+    "id": "adf",
+    "type": "file",
+    "file": "03_CI_CD_Automation/Data_Factory_and_Linked_Services.md",
+    "x": 1050,
+    "y": 0
+  },
+  {
+    "id": "gh",
+    "type": "file",
+    "file": "03_CI_CD_Automation/GitHub_Actions_to_Azure_Pivot.md",
+    "x": 1400,
+    "y": 0
+  },
+  {
+    "id": "azdo",
+    "type": "file",
+    "file": "03_CI_CD_Automation/Azure_DevOps_Pipeline_Abuse.md",
+    "x": 1750,
+    "y": 0
+  }
+]

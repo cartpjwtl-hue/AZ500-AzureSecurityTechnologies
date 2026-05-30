@@ -1,0 +1,37 @@
+[
+  {
+    "id": "kc1",
+    "type": "file",
+    "file": "07_Kill_Chains/KC1_Internet_to_Entra_Admin.md",
+    "x": 0,
+    "y": 0
+  },
+  {
+    "id": "kc2",
+    "type": "file",
+    "file": "07_Kill_Chains/KC2_Public_App_to_Subscription_Owner.md",
+    "x": 350,
+    "y": 0
+  },
+  {
+    "id": "kc3",
+    "type": "file",
+    "file": "07_Kill_Chains/KC3_Cloud_to_OnPrem_AD.md",
+    "x": 700,
+    "y": 0
+  },
+  {
+    "id": "kc4",
+    "type": "file",
+    "file": "07_Kill_Chains/KC4_Subscription_Control_to_Data_Exfil.md",
+    "x": 1050,
+    "y": 0
+  },
+  {
+    "id": "kc5",
+    "type": "file",
+    "file": "07_Kill_Chains/KC5_Long_Term_Cloud_Persistence.md",
+    "x": 1400,
+    "y": 0
+  }
+]

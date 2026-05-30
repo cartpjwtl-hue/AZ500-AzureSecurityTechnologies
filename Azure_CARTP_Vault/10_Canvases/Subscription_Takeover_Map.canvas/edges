@@ -1,0 +1,22 @@
+[
+  {
+    "fromNode": "vmext",
+    "toNode": "kv"
+  },
+  {
+    "fromNode": "kv",
+    "toNode": "storage"
+  },
+  {
+    "fromNode": "storage",
+    "toNode": "backup"
+  },
+  {
+    "fromNode": "backup",
+    "toNode": "rbac"
+  },
+  {
+    "fromNode": "rbac",
+    "toNode": "mg"
+  }
+]

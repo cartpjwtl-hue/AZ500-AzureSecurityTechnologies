@@ -1,0 +1,37 @@
+[
+  {
+    "id": "aadconnect",
+    "type": "file",
+    "file": "04_Hybrid_Identity/AAD_Connect_Compromise.md",
+    "x": 0,
+    "y": 0
+  },
+  {
+    "id": "pta",
+    "type": "file",
+    "file": "04_Hybrid_Identity/Pass_Through_Authentication_Agent_Abuse.md",
+    "x": 350,
+    "y": 0
+  },
+  {
+    "id": "sso",
+    "type": "file",
+    "file": "04_Hybrid_Identity/Seamless_SSO_AZUREADSSOACC_Abuse.md",
+    "x": 700,
+    "y": 0
+  },
+  {
+    "id": "trust",
+    "type": "file",
+    "file": "04_Hybrid_Identity/Trust_Boundary_Misalignment.md",
+    "x": 1050,
+    "y": 0
+  },
+  {
+    "id": "backdoor",
+    "type": "file",
+    "file": "04_Hybrid_Identity/Hybrid_Identity_Backdoors.md",
+    "x": 1400,
+    "y": 0
+  }
+]

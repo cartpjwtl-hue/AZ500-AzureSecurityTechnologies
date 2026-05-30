@@ -1,0 +1,34 @@
+[
+  {
+    "fromNode": "illicit",
+    "toNode": "malapp"
+  },
+  {
+    "fromNode": "malapp",
+    "toNode": "refresh"
+  },
+  {
+    "fromNode": "refresh",
+    "toNode": "legacy"
+  },
+  {
+    "fromNode": "legacy",
+    "toNode": "overperm"
+  },
+  {
+    "fromNode": "overperm",
+    "toNode": "consentinj"
+  },
+  {
+    "fromNode": "consentinj",
+    "toNode": "backdoor"
+  },
+  {
+    "fromNode": "backdoor",
+    "toNode": "prt"
+  },
+  {
+    "fromNode": "prt",
+    "toNode": "jwt"
+  }
+]
